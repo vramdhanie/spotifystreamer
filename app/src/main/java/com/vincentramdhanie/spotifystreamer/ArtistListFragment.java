@@ -8,11 +8,12 @@ import android.view.ViewGroup;
 
 
 /**
- * A placeholder fragment containing a simple view.
+ * This Fragment is on the main activity. It displays a list of Artist
+ * after the user enters a search criteria
  */
-public class MainActivityFragment extends Fragment {
+public class ArtistListFragment extends Fragment {
 
-    public MainActivityFragment() {
+    public ArtistListFragment() {
     }
 
     @Override
